@@ -7,4 +7,4 @@ https://github.com/edagarli/bugs/issues
 - [x] list syntax required
 - [x] normal **formatting**, @mentions, #1234 refs
 - [x] incomplete
-- [x] completed  #5
+- [x] completed  [#5](https://github.com/edagarli/bugs/issues/5)
