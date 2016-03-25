@@ -4,7 +4,7 @@
 https://github.com/edagarli/bugs/issues
 
 
-- [ ] a task list item [#3](https://github.com/edagarli/bugs/issues/3)
+- [ ] a task list item, #3 refs
 - [ ] list syntax required
 - [ ] normal **formatting**, @mentions, #1234 refs
 - [ ] incomplete
