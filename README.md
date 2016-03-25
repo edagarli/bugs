@@ -3,3 +3,8 @@
 
 https://github.com/edagarli/bugs/issues
 
+- [x] a task list item  #4 
+- [x] list syntax required
+- [x] normal **formatting**, @mentions, #1234 refs
+- [x] incomplete
+- [x] completed  #5
